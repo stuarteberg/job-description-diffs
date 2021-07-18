@@ -1,8 +1,10 @@
 Summary:
-The Software Engineer will be a member of a team of software engineers dedicated to accelerating science at the HHMI Janelia Research Campus. This position requires a passion for coding, with demonstrated proficiency in a scripting language such as Python, and preferably experience with a general language such as Java or C++.
+The Senior Software Engineer will be a member of a team of software engineers dedicated to accelerating science at the HHMI Janelia Research Campus. This position requires a passion for coding and demonstrated expert-level proficiency in a general language such as Java, C++, or Python.
 Essential Duties and Responsibilities:
 Software Development
-Will write good code, which means learning to make implementation decisions based on (a) understanding the software development lifecycle, spanning customer requirements, planning, design, prototyping, agile feedback, implementation, maintenance, testing, requirements staging, (b) technology selection, (c) implementation style (degree of object orientation, degree of performance optimization, framework leverage), (d) likelihood of reusability or service containerization, (e) documentation requirements.
+Will write excellent code, which means customizing implementation decisions based on (a) understanding the software development lifecycle, spanning customer requirements, planning, design, prototyping, agile feedback, implementation, maintenance, testing, requirements staging, (b) technology selection, (c) implementation style (degree of object orientation, degree of performance optimization, framework leverage), (d) likelihood of reusability or service containerization, (e) documentation requirements.
+Software Pattern and Architecture Awareness
+Will approach projects not merely with a code-writing mentality, but with a holistic awareness of software design patterns and systems architecture appropriate for the task. These, in turn, will influence code-writing style and technology choices.
 Customer Service
 Will be responsive to Janelia scientists, labs, and projects. This means attending meetings, brainstorm sessions, building working relationships with scientists, post-docs, and other software developers and project stakeholders. Active solicitation of feedback and prioritization is important, as is timely delivery of working software components.
 Skills Development
@@ -10,18 +12,20 @@ Will take responsibility for continuously improving and building their software 
 Communication
 Will effectively communicate with both scientist customers and team members, including ad-hoc conversations, meetings, presentations, emails, and group collaboration tools as-needed.
 Collaboration
-Will frequently and effectively collaborate with other team members on technology decisions, coding style, and workflow prioritization. This will require the free give and take of ideas, and sometimes require compromising individual preferences.
+Will frequently and effectively collaborate with other team members on technology decisions, coding style, workflow prioritization, and general project management. This will require the free give and take of ideas, and sometimes require compromising individual preferences.
 In addition to the duties specifically identified by this job description, the position will include other duties if and as assigned by the direct supervisor or others with supervisory authority over this position.
 Scope:
-● This is an individual contributor role and has no supervisory or budget responsibilities. Qualifications:
-Education
+This is an individual contributor role and has no supervisory or budget responsibilities.
+Qualifications: Education
 Experience
 Skills and Abilities
 ● BS in an engineering or scientific discipline, or equivalent work experience.
-● Minimum of 1 year of experience in software development.
+● Minimum of 5 years of experience in software development.
 ● Experience with scientific programming, algorithms, databases, or 3D visualization is desirable.
+● Demonstrated expertise with software development tools and code repositories.
 ● Experience working in a research environment a plus.
-● Scripting languages: Python, Perl, Unix shell
-● General languages (preferred): Java, C++
-● Web languages: JavaScript
-● Databases: MySQL
+● General programming languages: Java, C++, C, C#, Objective C.
+● Scripting languages: Python, Perl, Unix shell.
+● Web languages: JavaScript and associated frameworks, WebGL.
+● Graphics languages and toolkits: OpenGL, GLSL, Qt.
+● Databases: MongoDB, MySQL, Postgres, Neo4j.
